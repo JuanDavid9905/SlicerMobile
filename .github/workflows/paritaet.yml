@@ -1,4 +1,4 @@
-name: Parity iOS -> Android
+name: Parity iOS -> Android OS
 
 # Keeps the Android UI at the iOS state. The port made both sides congruent;
 # this run makes sure they stay that way. Rules: docs/twin-conventions.md
