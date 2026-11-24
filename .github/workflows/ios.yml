@@ -15,7 +15,7 @@
 # Deliberately manual: the dependency build takes hours, and macOS minutes
 # are expensive.
 
-name: iOS
+name: iOS build
 
 on:
   workflow_dispatch:
